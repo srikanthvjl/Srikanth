@@ -1,0 +1,27 @@
+
+
+Stopping SalWatchdog service.
+checking the status after every 10 seconds
+Waiting for service salWatchdog to stop..
+Stopped SalWatchdog service
+Stopping AxedaAgent service.
+checking the status after every 10 seconds
+Waiting for service axedaAgent to stop.. 
+Stopped AxedaAgent service
+Stopping SNMPAgent service.
+checking the status after every 10 seconds
+Waiting for service snmpAgent to stop..
+Stopped SNMPAgent service
+Stopping gatewayUI service.
+checking the status after every 10 seconds 
+Waiting for service gatewayUI to stop..
+Waiting for service gatewayUI to stop..
+Stopped GatewayUI service
+Stopping SpiritAgent service.
+checking the status after every 10 seconds
+Waiting for service spiritAgent to stop..
+Waiting for service spiritAgent to stop..
+Waiting for service spiritAgent to stop..
+Waiting for service spiritAgent to stop.. 
+Stopped SpiritAgent service
+Removing /opt/avaya/SAL/gateway/GatewayUI/apache-tomcat-6.0.35/webapps/salgateway 
